@@ -1,2 +1,2 @@
 # SoloCD
-Code will be released soon.
+The source code will be publicly released after the peer-review process.
